@@ -22,6 +22,6 @@ Java file includes intialization of Modules then assignment of ids to those modu
 
 
 
-#Base level customization:
+## Base level customization:
 These customization includes updation of icon for application and theme customization; includes primary and seconday colors that are choosed through out application.
 
